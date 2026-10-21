@@ -16,10 +16,6 @@ body {
 .container img {
   width: 150px;
   border-radius: 50%;
-  object-fit: cover;
-  height: 150px;
-  display: block;
-  margin: 0 auto;
 }
 
 .container {
