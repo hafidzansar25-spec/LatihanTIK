@@ -18,6 +18,8 @@ body {
   border-radius: 50%;
   object-fit: cover;
   height: 150px;
+  display: block;
+  margin: 0 auto;
 }
 
 .container {
